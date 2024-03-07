@@ -8,5 +8,5 @@ Feel free to explore each project folder for detailed documentation, code, and a
 Contact Information
 If you have any questions or would like to discuss collaboration opportunities, feel free to reach out to me:
 
-Email: SamuelTheAnalysst@gmail.com
+Email: SamuelTheAnalyst@gmail.com
 LinkedIn: samueltheanalysst
